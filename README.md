@@ -1,1 +1,2 @@
-# nw
+# Nomad worker application
+## Under developmentt
